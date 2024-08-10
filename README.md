@@ -25,5 +25,5 @@ FoodHub is a mobile application backend for a food delivery service. It allows u
 1. **Clone the Repository**
 
    ```bash
-   <!-- git clone https://github.com/yourusername/foodhub-backend.git -->
-   <!-- cd foodhub-backend -->
+   git clone https://github.com/prasantarout/FoodHub 
+   cd foodhub-backend
